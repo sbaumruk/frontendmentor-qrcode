@@ -16,4 +16,4 @@
 .prettierignore
 
 # Auto-generated HTML files generated from MD by VSCode
-./READ*.html
+README*.html
