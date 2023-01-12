@@ -1,0 +1,1 @@
+// just here so IDE recognizes that this is a tailwind project. Tailwind is imported using a CDN in the index.html file.
